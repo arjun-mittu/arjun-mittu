@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a href="https://app.daily.dev/arjun_mittu"><img src="https://github.com/arjun-mittu/arjun-mittu/blob/df74dfcba714a231bb719f0e879295de92b05ec0/devcard.svg" width="400" alt="Arjun Mittu's Dev Card"/></a>
+
 -->
-<--<a href="https://app.daily.dev/arjun_mittu"><img src="https://github.com/arjun-mittu/arjun-mittu/blob/df74dfcba714a231bb719f0e879295de92b05ec0/devcard.svg" width="400" alt="Arjun Mittu's Dev Card"/></a>
--->
+
